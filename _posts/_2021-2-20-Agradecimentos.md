@@ -3,7 +3,7 @@ layout: post
 title: Agradecimentos
 ---
 
-O desenvolvimento deste livro...
+O desenvolvimento deste livro...professores, etc
 
 - Ficha catalográfica
 - Compra versão virtual
@@ -11,3 +11,6 @@ O desenvolvimento deste livro...
 - Contato (mailchimp)
 - Adsense ??
 - Domínio .com.br
+- Festa de Lançamento
+- TCC aprovado
+-
