@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Venda solidária
+title: Sobre o autor
 ---
 
-O livro está disponível para aquisição através dos canais digitais abaixo. Todo o lucro das vendas serão direcionados a entidades sociais.
+Sebastião D'Ávila Silva iniciou o desenvolvimento do trabalhou que resultou neste livro durante o curso de Jornalismo na IES Funcec....
