@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Livro-reportagem
-permalink: /Livro-reportagem/
+permalink: /Livro-reportagem2/
 ---
 
 Várias casas soterradas e 11 pessoas mortas. Este foi o saldo do deslizamento de terra, ocorrido em 1971, durante a construção do trecho da BR-381 que atravessa a cidade de Bela Vista de Minas.

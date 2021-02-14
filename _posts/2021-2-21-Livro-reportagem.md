@@ -10,3 +10,8 @@ O livro Ecos Tardios descreve, de forma sequencial, os acontecimentos de antes, 
 Com informações obtidas em entrevistas com vítimas e testemunhas e por meio de registros garimpados em ações processuais e em jornais da época, o jornalista Sebastião D'Ávila Silva mostra versões dos principais personagens que viveram a agonia de uma noite que não terminou. Além da descrição detalhada do acidente, o autor faz uma ampla contextualização que nos remete a mais de quatro décadas.
 
 O livro traz trambém informações de como estão as famílias que foram mais atingidas pelo deslizamento, onde moram e como superaram os efeitos nefastos da tragédia. Essa última, a maior lição.
+
+
+[<img src="{{ site.baseurl }}/images/ecostardios-frente.jpg" style="width: 400px;"/>]({{ site.baseurl }}/)
+
+[<img src="{{ site.baseurl }}/images/ecostardios-verso.jpg" style="width: 400px;"/>]({{ site.baseurl }}/)
