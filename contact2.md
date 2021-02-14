@@ -1,7 +1,7 @@
 ---
 layout: contact
 title: Contato
-permalink: /contato/
+permalink: /contact2/
 ---
 
 Some information about you!
