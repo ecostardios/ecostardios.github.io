@@ -12,6 +12,6 @@ Com informações obtidas em entrevistas com vítimas e testemunhas e por meio d
 O livro traz trambém informações de como estão as famílias que foram mais atingidas pelo deslizamento, onde moram e como superaram os efeitos nefastos da tragédia. Essa última, a maior lição.
 
 
-[<img src="{{ site.baseurl }}/images/ecostardios-frente.jpg" style="width: 400px;"/>]({{ site.baseurl }}/)
+[<img src="{{ site.baseurl }}/images/ecostardios-frente.jpg" style="width: 200px;"/>]
 
-[<img src="{{ site.baseurl }}/images/ecostardios-verso.jpg" style="width: 400px;"/>]({{ site.baseurl }}/)
+[<img src="{{ site.baseurl }}/images/ecostardios-verso.jpg" style="width: 200px;"/>]({{ site.baseurl }}/)
