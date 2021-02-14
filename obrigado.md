@@ -4,4 +4,4 @@ title: Obrigado
 permalink: /obrigado/
 ---
 
-### Obrigado, mensagem enviada.
+### Mensagem enviada.
