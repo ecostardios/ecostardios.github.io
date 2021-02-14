@@ -14,7 +14,3 @@ O livro traz trambém informações de como estão as famílias que foram mais a
 ![<img src="{{ site.baseurl }}/images/ecostardios-frente.jpg" style="width: 300px;"/>](/images/ecostardios-frente.jpg)
 
 ![<img src="{{ site.baseurl }}/images/ecostardios-frente.jpg" style="width: 300px;"/>](/images/ecostardios-verso.jpg)
-
-[<img src="{{ site.baseurl }}/images/ecostardios-frente.jpg" style="width: 300px;"/>]({{ site.baseurl }}/)
-
-[<img src="{{ site.baseurl }}/images/ecostardios-verso.jpg" style="width: 300px;"/>]({{ site.baseurl }}/)
