@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Livro-reportagem
+title: Livro-reportagem2
 permalink: /Livro-reportagem2/
 ---
 
