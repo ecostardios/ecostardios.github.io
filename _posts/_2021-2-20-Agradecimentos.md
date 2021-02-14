@@ -13,4 +13,4 @@ O desenvolvimento deste livro...professores, etc
 - Domínio .com.br
 - Festa de Lançamento
 - TCC aprovado
--
+- Ecostardios na mídia (intagram, face, honra ao mérito BV)
