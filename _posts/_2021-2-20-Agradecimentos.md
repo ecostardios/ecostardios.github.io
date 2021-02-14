@@ -14,3 +14,4 @@ O desenvolvimento deste livro...professores, etc
 - Festa de Lançamento
 - TCC aprovado
 - Ecostardios na mídia (intagram, face, honra ao mérito BV)
+- Remover conteúdos desnecessários do GIT.
